@@ -1,0 +1,1 @@
+this is going to be a personal project in which i try to replicate space invaders using the project tutorial from the book *Python Crash Course: A Hands-On, Project-Based Introduction to Programming (3rd Edition)* by Eric Matthes
