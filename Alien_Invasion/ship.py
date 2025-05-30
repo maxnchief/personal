@@ -15,6 +15,10 @@ class Ship:
 
         # Start each new ship at the bottom center of the screen.
         self.rect.midbottom = self.screen_rect.midbottom
+
+        # Store a decimal value for the ship's horizontal position.
+        self.x = float(self.rect.x)
+        
         # Movement flags; start with a ship that's not moving.
         self.moving_right = False
         self.moving_left = False
